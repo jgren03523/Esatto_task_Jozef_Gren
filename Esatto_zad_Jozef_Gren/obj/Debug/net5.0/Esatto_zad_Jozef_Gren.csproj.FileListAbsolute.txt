@@ -1,0 +1,16 @@
+C:\Users\oxelo\Documents\DDHL_nauka\Esatto_zad_Jozef_Gren\Esatto_zad_Jozef_Gren\bin\Debug\net5.0\Esatto_zad_Jozef_Gren.exe
+C:\Users\oxelo\Documents\DDHL_nauka\Esatto_zad_Jozef_Gren\Esatto_zad_Jozef_Gren\bin\Debug\net5.0\Esatto_zad_Jozef_Gren.deps.json
+C:\Users\oxelo\Documents\DDHL_nauka\Esatto_zad_Jozef_Gren\Esatto_zad_Jozef_Gren\bin\Debug\net5.0\Esatto_zad_Jozef_Gren.runtimeconfig.json
+C:\Users\oxelo\Documents\DDHL_nauka\Esatto_zad_Jozef_Gren\Esatto_zad_Jozef_Gren\bin\Debug\net5.0\Esatto_zad_Jozef_Gren.runtimeconfig.dev.json
+C:\Users\oxelo\Documents\DDHL_nauka\Esatto_zad_Jozef_Gren\Esatto_zad_Jozef_Gren\bin\Debug\net5.0\Esatto_zad_Jozef_Gren.dll
+C:\Users\oxelo\Documents\DDHL_nauka\Esatto_zad_Jozef_Gren\Esatto_zad_Jozef_Gren\bin\Debug\net5.0\ref\Esatto_zad_Jozef_Gren.dll
+C:\Users\oxelo\Documents\DDHL_nauka\Esatto_zad_Jozef_Gren\Esatto_zad_Jozef_Gren\bin\Debug\net5.0\Esatto_zad_Jozef_Gren.pdb
+C:\Users\oxelo\Documents\DDHL_nauka\Esatto_zad_Jozef_Gren\Esatto_zad_Jozef_Gren\obj\Debug\net5.0\Esatto_zad_Jozef_Gren.csproj.AssemblyReference.cache
+C:\Users\oxelo\Documents\DDHL_nauka\Esatto_zad_Jozef_Gren\Esatto_zad_Jozef_Gren\obj\Debug\net5.0\Esatto_zad_Jozef_Gren.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oxelo\Documents\DDHL_nauka\Esatto_zad_Jozef_Gren\Esatto_zad_Jozef_Gren\obj\Debug\net5.0\Esatto_zad_Jozef_Gren.AssemblyInfoInputs.cache
+C:\Users\oxelo\Documents\DDHL_nauka\Esatto_zad_Jozef_Gren\Esatto_zad_Jozef_Gren\obj\Debug\net5.0\Esatto_zad_Jozef_Gren.AssemblyInfo.cs
+C:\Users\oxelo\Documents\DDHL_nauka\Esatto_zad_Jozef_Gren\Esatto_zad_Jozef_Gren\obj\Debug\net5.0\Esatto_zad_Jozef_Gren.csproj.CoreCompileInputs.cache
+C:\Users\oxelo\Documents\DDHL_nauka\Esatto_zad_Jozef_Gren\Esatto_zad_Jozef_Gren\obj\Debug\net5.0\Esatto_zad_Jozef_Gren.dll
+C:\Users\oxelo\Documents\DDHL_nauka\Esatto_zad_Jozef_Gren\Esatto_zad_Jozef_Gren\obj\Debug\net5.0\ref\Esatto_zad_Jozef_Gren.dll
+C:\Users\oxelo\Documents\DDHL_nauka\Esatto_zad_Jozef_Gren\Esatto_zad_Jozef_Gren\obj\Debug\net5.0\Esatto_zad_Jozef_Gren.pdb
+C:\Users\oxelo\Documents\DDHL_nauka\Esatto_zad_Jozef_Gren\Esatto_zad_Jozef_Gren\obj\Debug\net5.0\Esatto_zad_Jozef_Gren.genruntimeconfig.cache
